@@ -1,0 +1,16 @@
+{
+  "note_csv": "test_file.csv",
+  "out_wav": "out/test1.wav",
+  "sr": 48000,
+  "N": 5,
+  "K": 4,
+  "voice_count": 16,
+  "default_route": "all",
+  "duration_sec": 3.2,
+  "metrics": {
+    "peak": NaN,
+    "rms": NaN,
+    "dc": NaN,
+    "crest": NaN
+  }
+}
